@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ž¹Ô´8››ÍÑÍ1
+}
+java:S4144"[Update this method so that its implementation is not identical to "runSomeThing" on line 7.(›‚ÅÃýÿÿÿÿ8½±ÖÑÍ1
+L
+java:S1481	"*Remove this unused "pubSt" local variable.(²Ò‡˜ûÿÿÿÿ8Ÿ›ÍÑÍ1
+R
+java:S2209"5Change this instance-reference to a static reference.(ü¹Íñ8¥±ÍÑÍ1
+H
+java:S1481"+Remove this unused "pubSt1" local variable.(ü¹Íñ8âÒÏÑÍ1
+L
+java:S1481"*Remove this unused "pubSt" local variable.(²Ò‡˜ûÿÿÿÿ8½±ÖÑÍ1
+R
+java:S2209"5Change this instance-reference to a static reference.(ü¹Íñ8½±ÖÑÍ1
+H
+java:S1481"+Remove this unused "pubSt1" local variable.(ü¹Íñ8½±ÖÑÍ1

@@ -1,0 +1,50 @@
+
+q
+java:S1104"OMake pub a static final constant or non-public and provide accessors if needed.(ûÈå¦ùÿÿÿÿ8¼ÑÍ1
+n
+java:S1104"QMake pubSt a static final constant or non-public and provide accessors if needed.(æ¼àò8¼ÑÍ1
+H
+java:S1444"+Make this "public static pubSt" field final(æ¼àò8½ÑÍ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã‡ úùÿÿÿÿ8½ÑÍ1
+~
+java:S4144"\Update this method so that its implementation is not identical to "runSomeThing" on line 13.(›‚ÅÃıÿÿÿÿ8•šÑÍ1
+g
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(İÏÉèÿÿÿÿÿ8ÀÑÍ1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Û¹™˜8ÀÑÍ1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(æ¼àò8ÀÑÍ1
+M
+java:S1481"+Remove this unused "priSt1" local variable.(í†Æøÿÿÿÿ8ÁÑÍ1
+H
+java:S1481"+Remove this unused "defSt1" local variable.(Ò„À—8ÁÑÍ1
+H
+java:S1481"+Remove this unused "proSt1" local variable.(˜ ÿ8ÁÑÍ1
+H
+java:S1481"+Remove this unused "pubSt1" local variable.(ÀÕ¾8ÁÑÍ1
+M
+java:S1481"+Remove this unused "priSt2" local variable.(à¥×Şùÿÿÿÿ8ÁÑÍ1
+H
+java:S1481"+Remove this unused "defSt2" local variable.(ä•ó¢8ÁÑÍ1
+M
+java:S1481"+Remove this unused "proSt2" local variable.(Ï¶§…ıÿÿÿÿ8ÁÑÍ1
+H
+java:S1481"+Remove this unused "pubSt2" local variable.(Ó€€º8ÁÑÍ1
+M
+java:S1481"+Remove this unused "priSt1" local variable.(í†Æøÿÿÿÿ8Ô¥‚ÑÍ1
+H
+java:S1481"+Remove this unused "defSt1" local variable.(Ò„À—8Ô¥‚ÑÍ1
+H
+java:S1481"+Remove this unused "proSt1" local variable.(˜ ÿ8Ô¥‚ÑÍ1
+H
+java:S1481"+Remove this unused "pubSt1" local variable.(ÀÕ¾8Ô¥‚ÑÍ1
+M
+java:S1481"+Remove this unused "priSt2" local variable.(à¥×Şùÿÿÿÿ8Ô¥‚ÑÍ1
+H
+java:S1481 "+Remove this unused "defSt2" local variable.(ä•ó¢8Õ¥‚ÑÍ1
+M
+java:S1481!"+Remove this unused "proSt2" local variable.(Ï¶§…ıÿÿÿÿ8Õ¥‚ÑÍ1
+H
+java:S1481""+Remove this unused "pubSt2" local variable.(Ó€€º8Õ¥‚ÑÍ1
+I
+java:S1068"'Remove this unused "pri" private field.(ãå­èÿÿÿÿÿ8ÂÑÍ1

@@ -1,0 +1,7 @@
+
+p
+java:S1104"SMake habitat a static final constant or non-public and provide accessors if needed.(ÅĞÃ”8˜ªÉÍ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÖÉr8‡Ô«ÉÍ1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(„Ê”û8¡ÓªÉÍ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„Ê”û8£˜ªÉÍ1

@@ -1,0 +1,32 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã‡ úùÿÿÿÿ
+}
+java:S4144"[Update this method so that its implementation is not identical to "runSomeThing" on line 5.(›‚ÅÃýÿÿÿÿ8¨µ®ÑÍ1
+]	java:S125"<This block of commented-out lines of code should be removed.(•ý¶åøÿÿÿÿ8á³ƒÑÍ1
+M
+java:S1481"+Remove this unused "defSt1" local variable.(Â»ŠÛøÿÿÿÿ8›ŽƒÑÍ1
+M
+java:S1481"+Remove this unused "proSt1" local variable.(½Å³ øÿÿÿÿ8›ŽƒÑÍ1
+H
+java:S1481	"+Remove this unused "pubSt1" local variable.(ÓÕ”©8›ŽƒÑÍ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Òý îÿÿÿÿÿ8Æ¨ÑÍ1
+H
+java:S1481"+Remove this unused "defSt2" local variable.(ä•ó¢8Ö ¨ÑÍ1
+M
+java:S1481"+Remove this unused "proSt2" local variable.(Ï¶§…ýÿÿÿÿ8Ö ¨ÑÍ1
+H
+java:S1481"+Remove this unused "pubSt2" local variable.(Ó€€º8Ö ¨ÑÍ1
+]	java:S125"<This block of commented-out lines of code should be removed.(•ý¶åøÿÿÿÿ8ªµ®ÑÍ1
+M
+java:S1481"+Remove this unused "defSt1" local variable.(Â»ŠÛøÿÿÿÿ8«µ®ÑÍ1
+M
+java:S1481"+Remove this unused "proSt1" local variable.(½Å³ øÿÿÿÿ8«µ®ÑÍ1
+H
+java:S1481"+Remove this unused "pubSt1" local variable.(ÓÕ”©8«µ®ÑÍ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Òý îÿÿÿÿÿ8«µ®ÑÍ1
+H
+java:S1481"+Remove this unused "defSt2" local variable.(ä•ó¢8«µ®ÑÍ1
+M
+java:S1481"+Remove this unused "proSt2" local variable.(Ï¶§…ýÿÿÿÿ8«µ®ÑÍ1
+H
+java:S1481"+Remove this unused "pubSt2" local variable.(Ó€€º8«µ®ÑÍ1
