@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©İÓ8¥ÁšĞÍ1
+€
+java:S2177"^Rename this method or correct the type of the argument(s) to override the parent class method.(­¨Ç¨ıÿÿÿÿ8¨ĞÓÍ1
+X	java:S125"<This block of commented-out lines of code should be removed.( ”íİ8©ÁšĞÍ1
+F
+java:S1481")Remove this unused "pro1" local variable.(°ÎÚ8©ÁšĞÍ1
+F
+java:S1481")Remove this unused "pub1" local variable.(ÁùÈ™8©ÁšĞÍ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ß‰›¶8ªÁšĞÍ1
+F
+java:S1481")Remove this unused "pro1" local variable.(“ì±Ä8ªÁšĞÍ1
+K
+java:S1481")Remove this unused "pub1" local variable.(ŠÜóÓşÿÿÿÿ8«ÁšĞÍ1

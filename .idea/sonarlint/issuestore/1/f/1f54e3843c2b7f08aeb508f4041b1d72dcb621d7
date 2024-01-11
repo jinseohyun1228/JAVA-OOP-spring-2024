@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚŒÛšùÿÿÿÿ8€»ÏïÍ1
+v
+java:S3008"TRename this field "Classname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø†´¾üÿÿÿÿ8†»ÏïÍ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(•…À8‰»ÏïÍ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÊêûÿÿÿÿ8‹»ÏïÍ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ğšúÿÿÿÿ8»ÏïÍ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅôÁ§şÿÿÿÿ8»ÏïÍ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•­ìû8»ÏïÍ1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8‘‹ÿïÍ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÅøÿÿÿÿ8‘‹ÿïÍ1

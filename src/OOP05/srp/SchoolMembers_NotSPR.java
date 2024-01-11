@@ -2,8 +2,10 @@ package OOP05.srp;
 
 public class SchoolMembers_NotSPR {
   final Role role;
-  public SchoolMembers_NotSPR(Role role) {
+  private String schoolClass;
+  public SchoolMembers_NotSPR(Role role,String schoolClass) {
     this.role = role;
+    this.schoolClass = schoolClass;
   }
 
   void toBeActive() {

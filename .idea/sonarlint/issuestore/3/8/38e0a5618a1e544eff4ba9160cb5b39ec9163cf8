@@ -1,0 +1,8 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰œù\
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8±‡ØôÍ1
+Z
+java:S1128"8Remove this unused import 'OOP03.inheritance03.Anlimal'.(Ùã¢Üúÿÿÿÿ8´‡ØôÍ1
+U
+java:S1128"8Remove this unused import 'OOP03.inheritance03.Penguin'.(ƒûÀ“8µ‡ØôÍ1
