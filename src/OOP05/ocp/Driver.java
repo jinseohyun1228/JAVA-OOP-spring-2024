@@ -1,8 +1,8 @@
 package OOP05.ocp;
 
 public class Driver {
-  K7 seohyunCar = new K7();
-  Client seohyun = new Client(seohyunCar);
+  Car seohyunCar = new K7();
+  Client seohyun = new Client( seohyunCar);
 
   // 마티즈로 변경하고 싶은데?
   Matiz matiz = new Matiz();

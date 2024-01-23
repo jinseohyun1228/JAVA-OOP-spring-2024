@@ -105,3 +105,6 @@ P
  src/OOP04/instancof/Sparrow.java,3\5\35bffa52433eaf7679ef8130e8d9122957a28a7a
 O
 src/OOP04/instancof/Driver.java,3\8\38e0a5618a1e544eff4ba9160cb5b39ec9163cf8
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

@@ -105,3 +105,6 @@ L
 src/OOP04/instancof/Fly.java,2\a\2a156d1de88ea7d4fb28a811b28a72bd60f282c0
 Q
 !src/OOP04/staticBlock/Driver.java,1\0\10e7f09c77f399cad0f2c657fbbb8708f1de17b2
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
