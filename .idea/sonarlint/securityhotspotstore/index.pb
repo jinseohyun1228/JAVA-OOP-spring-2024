@@ -17,8 +17,6 @@ V
 &src/OOP03/inheritance01/포유류.java,e\4\e42343f581d7516494d6ae281c5aa57e0ae6cfc6
 U
 %src/OOP03/inheritance01/Driver04.java,5\3\53e7d0e73c9834da3a8f2a63ee8f01310f55a140
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 C
 src/OOP03/README.md,c\5\c526ec726de58fbcd378e57cfcb58bdfda17e926
 7

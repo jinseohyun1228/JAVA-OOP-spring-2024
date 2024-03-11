@@ -17,8 +17,6 @@ U
 %src/OOP03/inheritance01/Driver04.java,5\3\53e7d0e73c9834da3a8f2a63ee8f01310f55a140
 S
 #src/OOP03/inheritance01/펭귄.java,7\1\711deed61d35f0e64cf25c96e08677abc7665a74
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 C
 src/OOP03/README.md,c\5\c526ec726de58fbcd378e57cfcb58bdfda17e926
 7
